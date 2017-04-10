@@ -10,7 +10,7 @@ PKG_RELEASE=1
 
 PKG_SOURCE:=$(PKG_NAME)-$(PKG_VERSION).tar.gz
 PKG_SOURCE_URL:=http://downloads.sourceforge.net/project/cmusphinx/pocketsphinx/5prealpha/
-PKG_MD5SUM:=2c4fb3a1318bb2470997ab7eb98ef69a
+PKG_MD5SUM:=cb3f8c80ad5723ca37ead5b14fb61360
 
 # PKG_SOURCE_PROTO:=git
 # PKG_SOURCE_URL:=https://github.com/cmusphinx/pocketsphinx.git
